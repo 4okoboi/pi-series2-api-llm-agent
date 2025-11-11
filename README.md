@@ -1,5 +1,7 @@
 # Отчет о выполнении серии заданий
 
+GITHUB: https://github.com/4okoboi/pi-series2-api-llm-agent
+
 ## API для ML-модели sentiment-analysis и ее тестирование
 В качестве фреймворка для API был использован FastAPI
 Модель, которая доступна по `/infer` - text-classification pipeline, который делает сентиментальный анализ текста
