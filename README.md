@@ -11,7 +11,7 @@ GITHUB: https://github.com/4okoboi/pi-series2-api-llm-agent
 Тесты были реализованы с помощью `fastapi.testclient`, который позволяет не поднимать HTTP сервер для прогона тестов
 
 Чтобы запустить сервис:
-1. ```pip install -r requirements.txt```
+1. ```pip install -r requirements_api.txt```
 2. ```uvicorn main:app```
 
 Для прогона тестов:
